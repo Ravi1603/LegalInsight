@@ -10,4 +10,3 @@ This tool will provide a user-friendly platform to help users better understand 
 
 
 
-![image](https://github.com/user-attachments/assets/ab86f095-572b-4b01-b7f8-889c0c85c545)
