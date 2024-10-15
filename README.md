@@ -1,4 +1,4 @@
-# LegalInsight
+# LegalInsight: Abstractive Text Summarization and\\ Conversational AI for Legal Documents
 In this project, we develop LegalInsight, an abstractive summarization model that generates concise summaries of legal documents. These summaries aim to simplify complex legal texts, making them more accessible to a wider audience. The project also includes a Retrieval-Augmented Generation (RAG) based conversational chatbot, which allows users to ask questions about the legal documents and their summaries. The chatbot retrieves relevant sections from the document or summary to provide precise answers, as well as definitions for any unfamiliar legal terms.
 
 To train the text summarizer, we utilize multiple datasets from the Hugging Face library that are relevant to the legal domain, including  ccdv/govreport-summarization, and nhankins/legal\_summary\_data. We fine-tune and evaluate three pre-trained models—BART, T5, and PEGASUS—and compare their performance to select the best model for generating summaries. Evaluation metrics such as ROUGE and BLEU scores are used to assess the quality of the summaries.
